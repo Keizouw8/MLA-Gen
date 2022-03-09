@@ -1,0 +1,29 @@
+{
+  "name": "mla-node-gen",
+  "version": "1.0.0",
+  "description": "Create MLA papers in JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keizouw8/mla-gen.git"
+  },
+  "keywords": [
+    "mla",
+    "formatting",
+    "essay"
+  ],
+  "author": "Keizou Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keizouw8/mla-gen/issues"
+  },
+  "homepage": "https://github.com/Keizouw8/mla-gen#readme",
+  "files": [
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ],
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
+}
